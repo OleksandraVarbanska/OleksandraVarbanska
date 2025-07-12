@@ -3,3 +3,6 @@
 I'm an aspiring frontend developer.
 
 :mailbox: Reach me out!
+
+:m: (o.varbanska@gmail.com)
+
