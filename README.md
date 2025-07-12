@@ -24,6 +24,7 @@
           <td><img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></td> 
           <td><img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/></td> 
           <td><img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/></td> 
+          <td><img height="40px" width="40px" src="https://desktop.github.com/images/desktop-icon.svg"/></td>    
         </tr>
       </tbody>
 </table>      
