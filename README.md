@@ -25,9 +25,9 @@
 
 📫 How to reach me:
 
-**:email: (o.varbanska@gmail.com)**
+**:email:(o.varbanska@gmail.com)**
 
-****
+**![Static Badge](https://img.shields.io/badge/telegram-%2326A5E4?style=flat&logo=Telegram&logoColor=white) (https://t.me/nemin_na_ari)**
 
 
 
